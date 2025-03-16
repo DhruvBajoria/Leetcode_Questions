@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/DhruvBajoria/Leetcode_Questions/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/DhruvBajoria/Leetcode_Questions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/DhruvBajoria/Leetcode_Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2665-minimum-time-to-repair-cars](https://github.com/DhruvBajoria/Leetcode_Questions/tree/master/2665-minimum-time-to-repair-cars) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/DhruvBajoria/Leetcode_Questions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/DhruvBajoria/Leetcode_Questions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/DhruvBajoria/Leetcode_Questions/tree/master/3227-find-missing-and-repeated-values) |
@@ -235,4 +236,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/DhruvBajoria/Leetcode_Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2665-minimum-time-to-repair-cars](https://github.com/DhruvBajoria/Leetcode_Questions/tree/master/2665-minimum-time-to-repair-cars) |
 <!---LeetCode Topics End-->
