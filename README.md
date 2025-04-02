@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2681-put-marbles-in-bags](https://github.com/DhruvBajoria/Leetcode_Questions/tree/master/2681-put-marbles-in-bags) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/DhruvBajoria/Leetcode_Questions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/DhruvBajoria/Leetcode_Questions/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/DhruvBajoria/Leetcode_Questions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/DhruvBajoria/Leetcode_Questions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/DhruvBajoria/Leetcode_Questions/tree/master/3227-find-missing-and-repeated-values) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/DhruvBajoria/Leetcode_Questions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
