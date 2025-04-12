@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/DhruvBajoria/Leetcode_Questions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/DhruvBajoria/Leetcode_Questions/tree/master/3227-find-missing-and-repeated-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/DhruvBajoria/Leetcode_Questions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3548-find-the-count-of-good-integers](https://github.com/DhruvBajoria/Leetcode_Questions/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/DhruvBajoria/Leetcode_Questions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/DhruvBajoria/Leetcode_Questions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/DhruvBajoria/Leetcode_Questions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/DhruvBajoria/Leetcode_Questions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/DhruvBajoria/Leetcode_Questions/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/DhruvBajoria/Leetcode_Questions/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3548-find-the-count-of-good-integers](https://github.com/DhruvBajoria/Leetcode_Questions/tree/master/3548-find-the-count-of-good-integers) |
 ## Stack
 |  |
 | ------- |
@@ -312,4 +314,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/DhruvBajoria/Leetcode_Questions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Combinatorics
+|  |
+| ------- |
+| [3548-find-the-count-of-good-integers](https://github.com/DhruvBajoria/Leetcode_Questions/tree/master/3548-find-the-count-of-good-integers) |
+## Enumeration
+|  |
+| ------- |
+| [3548-find-the-count-of-good-integers](https://github.com/DhruvBajoria/Leetcode_Questions/tree/master/3548-find-the-count-of-good-integers) |
 <!---LeetCode Topics End-->
