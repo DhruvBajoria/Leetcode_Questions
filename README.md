@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/DhruvBajoria/Leetcode_Questions/tree/master/0038-count-and-say) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/DhruvBajoria/Leetcode_Questions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/DhruvBajoria/Leetcode_Questions/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/DhruvBajoria/Leetcode_Questions/tree/master/1170-shortest-common-supersequence) |
