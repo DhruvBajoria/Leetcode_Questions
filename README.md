@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/DhruvBajoria/Leetcode_Questions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/DhruvBajoria/Leetcode_Questions/tree/master/0416-partition-equal-subset-sum) |
+| [0797-rabbits-in-forest](https://github.com/DhruvBajoria/Leetcode_Questions/tree/master/0797-rabbits-in-forest) |
 | [0854-making-a-large-island](https://github.com/DhruvBajoria/Leetcode_Questions/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/DhruvBajoria/Leetcode_Questions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1364-tuple-with-same-product](https://github.com/DhruvBajoria/Leetcode_Questions/tree/master/1364-tuple-with-same-product) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0797-rabbits-in-forest](https://github.com/DhruvBajoria/Leetcode_Questions/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/DhruvBajoria/Leetcode_Questions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1160-letter-tile-possibilities](https://github.com/DhruvBajoria/Leetcode_Questions/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/DhruvBajoria/Leetcode_Questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/DhruvBajoria/Leetcode_Questions/tree/master/0368-largest-divisible-subset) |
+| [0797-rabbits-in-forest](https://github.com/DhruvBajoria/Leetcode_Questions/tree/master/0797-rabbits-in-forest) |
 | [1477-product-of-the-last-k-numbers](https://github.com/DhruvBajoria/Leetcode_Questions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/DhruvBajoria/Leetcode_Questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/DhruvBajoria/Leetcode_Questions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0797-rabbits-in-forest](https://github.com/DhruvBajoria/Leetcode_Questions/tree/master/0797-rabbits-in-forest) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/DhruvBajoria/Leetcode_Questions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2681-put-marbles-in-bags](https://github.com/DhruvBajoria/Leetcode_Questions/tree/master/2681-put-marbles-in-bags) |
 ## Tree
